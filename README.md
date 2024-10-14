@@ -12,3 +12,6 @@
 ![Screenshot 2024-10-14 143922](https://github.com/user-attachments/assets/6ecc5a6b-64d4-4fb1-a983-4a50c85c50f1)
 3
 ![Screenshot 2024-10-14 144052](https://github.com/user-attachments/assets/103bb656-be6e-46fb-86e6-db2e07aee54b)
+# Safariの場合
+Safariの場合は公式のサポートページが分かりやすいです。
+https://support.apple.com/ja-jp/105030
